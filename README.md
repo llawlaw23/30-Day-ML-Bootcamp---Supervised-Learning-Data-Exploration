@@ -1,5 +1,5 @@
 # Day1
-Understanding Git and Github
+Understanding Git and Github!
 # Git
 Git - Free and open source version control system.
 version control - Means management of changes to a documnent(code), computer programs, wedsites and collection of information.
