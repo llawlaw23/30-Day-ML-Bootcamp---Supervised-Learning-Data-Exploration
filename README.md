@@ -16,3 +16,12 @@ commit - save changes made on your local repo.
 push - upload git commits to a remote repo.
 pull - download changes made to repo unto your local computer.
 status - this shows you all the files that were created, updated and deleted but have not been saved in a commit yet.
+
+## Git Branching
+master branch - default branches
+feature branch 
+
+Branching commands 
+git branch - to check branches available
+git checkout -b new_branch_name - creates new branch
+git checkout branch_name - to jump from one branch to the other
