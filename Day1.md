@@ -19,7 +19,7 @@ commit - save changes made on your local repo.
 push - upload git commits to a remote repo.
 pull - download changes made to repo unto your local computer.
 status - this shows you all the files that were created, updated and deleted but have not been saved in a commit yet.
-git commit -am - for commiting modified files. it does not work for newly created files.
+git commit -am - for commiting modified files.
 
 ## Git Branching
 Branching is the process of jumping from one branch to another
