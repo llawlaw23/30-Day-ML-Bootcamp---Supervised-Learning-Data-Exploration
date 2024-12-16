@@ -1,27 +1,23 @@
-# Day1
-Understanding Git and Github!
-## Git
-Git - Free and open source version control system.
-version control - Means management of changes to a documnent(code), computer programs, wedsites and collection of information.
-## Common Termologies
-Dir(Directory) - Folder.
-CLI - command line interface.
-cd - change directory.
-Repo - repository (projects or a folder/place where projects are kept).
-Github - a wedsite to host repo online.
-## Git commands 
-clone - downloading a remote repo hosted somewhere into a folder on your local machine.
-add - track files and changes in git.
-commit - save changes made on your local repo.
-push - upload git commits to a remote repo.
-pull - download changes made to repo unto your local computer.
-status - this shows you all the files that were created, updated and deleted but have not been saved in a commit yet.
+30 Days Machine Learning Roadmap.
 
-## Git Branching
-master branch - default branches
-feature branch 
 
-Branching commands 
-git branch - to check branches available
-git checkout -b new_branch_name - creates new branch
-git checkout branch_name - to jump from one branch to the other
+Day 1
+
+Git and GitHub for Beginners - Crash Course
+https://youtu.be/RGOj5yH7evk?si=Z4MO9Vmp3GG1cgRa Video credit: FreeCodeCamp.org
+
+
+
+Day 2 to 4
+Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)
+https://youtu.be/r-uOLxNrNk8?si=OA4SzmlAiI_o7duB Video credit: FreeCodeCamp.org
+
+
+Day 5
+
+Matplotlib begginer guide
+https://copyassignment.com/matplotlib-python-a-beginners-walkthrough/
+credit: copyassignment.com
+
+seaborn --create elegant plot
+https://copyassignment.com/seaborn-create-elegant-plots/ credit: copyassignment.com
