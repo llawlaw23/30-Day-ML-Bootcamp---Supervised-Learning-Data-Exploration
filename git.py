@@ -1,4 +1,4 @@
-Git_terms = ["cd", "dir", "ls", “exit”] 
+Git_commands = ["cd", "dir", "ls", “exit”] 
 commands = ["clone", "add", "commit", "push", "pull" ]
 Libraries = [”Numpy”, “Panda”, “Matplotlib”, “Seaborn”]
 
