@@ -1,4 +1,4 @@
-30 Days Machine Learning Roadmap.
+30 Days Machine Learning Bootcamp Roadmap.
 
 
 Day 1
