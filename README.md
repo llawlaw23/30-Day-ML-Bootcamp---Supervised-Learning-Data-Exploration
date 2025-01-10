@@ -21,3 +21,5 @@ credit: copyassignment.com
 
 seaborn --create elegant plot
 https://copyassignment.com/seaborn-create-elegant-plots/ credit: copyassignment.com
+
+Day 6
