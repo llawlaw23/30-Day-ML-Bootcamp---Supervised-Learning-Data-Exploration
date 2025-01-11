@@ -1,4 +1,4 @@
-30 Days Machine Learning Roadmap.
+30 Days Machine Learning Bootcamp Roadmap.
 
 
 Day 1
@@ -21,3 +21,5 @@ credit: copyassignment.com
 
 seaborn --create elegant plot
 https://copyassignment.com/seaborn-create-elegant-plots/ credit: copyassignment.com
+
+Day 6
