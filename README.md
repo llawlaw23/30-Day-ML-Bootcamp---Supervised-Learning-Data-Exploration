@@ -15,11 +15,13 @@ https://youtu.be/r-uOLxNrNk8?si=OA4SzmlAiI_o7duB Video credit: FreeCodeCamp.org
 
 Day 5
 
-Matplotlib begginer guide
+Matplotlib beginners guide
 https://copyassignment.com/matplotlib-python-a-beginners-walkthrough/
 credit: copyassignment.com
 
 seaborn --create elegant plot
 https://copyassignment.com/seaborn-create-elegant-plots/ credit: copyassignment.com
 
-Day 6
+Day 6 - 10
+Machine Learning
+https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw&si=uHiZ7G03pfB2LZQa credit CodeBasics
