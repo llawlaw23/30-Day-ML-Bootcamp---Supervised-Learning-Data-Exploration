@@ -22,7 +22,7 @@ credit: copyassignment.com
 seaborn --create elegant plot
 https://copyassignment.com/seaborn-create-elegant-plots/ credit: copyassignment.com
 
-Day 6 - 10
+### Day 6 - 10
 Machine Learning
 https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw&si=uHiZ7G03pfB2LZQa credit CodeBasics
 
