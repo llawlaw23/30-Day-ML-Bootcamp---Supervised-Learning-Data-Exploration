@@ -37,7 +37,6 @@ The goal of this bootcamp is to:
 
 ## 📊 Visuals
 
-> You can add screenshots of charts or model outputs here.  
 Example:
 ![Model Output](https://github.com/llawlaw23/ML-30-Days-Bootcamp/blob/main/Day%205/output.png?raw=true)
 
