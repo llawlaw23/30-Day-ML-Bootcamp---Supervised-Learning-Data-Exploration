@@ -28,10 +28,10 @@ The goal of this bootcamp is to:
 |-----|-------|-----------|
 | 1-5 | Data Preprocessing | Handling missing data, label encoding, feature scaling |
 | 6-10 | Regression | Linear & Polynomial Regression on housing and health data |
-| 11-15 | Classification | Logistic Regression, KNN, Decision Trees |
-| 16-20 | Model Evaluation | Cross-validation, Confusion Matrix, ROC |
-| 21-25 | Advanced Models | SVM, Random Forest, Gradient Boosting |
-| 26-30 | Mini Projects | ML applied on real-world datasets (coming soon) |
+| 11-15 |.................................. coming soon |
+| 16-20 |........................................ coming soon |
+| 21-25 |............................................ coming soon  |
+| 26-30 |................................... coming soon |
 
 ---
 
