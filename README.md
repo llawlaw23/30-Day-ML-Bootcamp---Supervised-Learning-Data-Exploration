@@ -1,32 +1,59 @@
-30 Days Machine Learning Bootcamp Roadmap.
+# ML-30-Days-Bootcamp 🧠📊
 
+Welcome to my 30-day Machine Learning journey! This project is a personal learning challenge where I explore core ML concepts, apply them through code, and build real models step-by-step.
 
-Day 1
+---
 
-Git and GitHub for Beginners - Crash Course
-https://youtu.be/RGOj5yH7evk?si=Z4MO9Vmp3GG1cgRa Video credit: FreeCodeCamp.org
+## 📌 Project Goal
 
+The goal of this bootcamp is to:
+- Strengthen my understanding of machine learning fundamentals
+- Practice hands-on implementation using real datasets
+- Build a solid foundation for future data science and AI projects
 
+---
 
-Day 2 to 4
-Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)
-https://youtu.be/r-uOLxNrNk8?si=OA4SzmlAiI_o7duB Video credit: FreeCodeCamp.org
+## 🛠 Tools Used
 
+- **Language:** Python  
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- **Environment:** Jupyter Notebook  
+- **Version Control:** Git & GitHub  
 
-Day 5
+---
 
-Matplotlib beginners guide
-https://copyassignment.com/matplotlib-python-a-beginners-walkthrough/
-credit: copyassignment.com
+## 🔍 Summary of Key Learnings & Mini Projects
 
-seaborn --create elegant plot
-https://copyassignment.com/seaborn-create-elegant-plots/ credit: copyassignment.com
+| Day | Topic | Highlights |
+|-----|-------|-----------|
+| 1-5 | Data Preprocessing | Handling missing data, label encoding, feature scaling |
+| 6-10 | Regression | Linear & Polynomial Regression on housing and health data |
+| 11-15 | Classification | Logistic Regression, KNN, Decision Trees |
+| 16-20 | Model Evaluation | Cross-validation, Confusion Matrix, ROC |
+| 21-25 | Advanced Models | SVM, Random Forest, Gradient Boosting |
+| 26-30 | Mini Projects | ML applied on real-world datasets (coming soon) |
 
-### Day 6 - 10
-Machine Learning
-https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw&si=uHiZ7G03pfB2LZQa credit CodeBasics
+---
 
-Day 6
-Regression 
-Saving Loading a Model
-Categorial, Dummy variables, and One hot Encoding. using Pandas and Sklearn
+## 📊 Visuals
+
+> You can add screenshots of charts or model outputs here.  
+Example:
+![Regression Plot](https://github.com/yourusername/ML-30-Days-Bootcamp/blob/main/images/regression_plot.png)
+
+---
+
+## 📈 What's Next?
+
+- Add more real-world datasets
+- Tune models with hyperparameter optimization
+- Explore deep learning (next challenge!)
+
+---
+
+## 🙋‍♀️ About Me
+
+I'm Lawrencia Archer, an aspiring Data Analyst and ML enthusiast.  
+This project is part of my self-paced learning journey into machine learning and data science.
+
+Let’s connect on [GitHub](https://github.com/llawlaw23)
