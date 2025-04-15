@@ -39,7 +39,7 @@ The goal of this bootcamp is to:
 
 > You can add screenshots of charts or model outputs here.  
 Example:
-![Regression Plot](https://github.com/yourusername/ML-30-Days-Bootcamp/blob/main/images/regression_plot.png)
+![Regression Plot]Day 5/output.png
 
 ---
 
